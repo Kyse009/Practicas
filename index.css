@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.Padre{
+justify-content: space-evenly;
+text-align: center;
+flex-direction: row;
+display: flex;
+align-items: center;
+margin:auto;
+height: auto;
+width: 80%;
+padding: 10px;
+}
+.uno{
+    padding: 10px;
+height: 300px;
+width: 300px;
+background-color: rgb(221, 223, 222);
+text-align: center;
+align-items: center;}
+.dos{
+    padding: 10px;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(221, 223, 222);}
+.tres{
+    padding: 10px;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(221, 223, 222);}
+header{
+width: 75%;
+height: 50px;
+background-color: rgb(158, 230, 194);
+justify-content: center;
+margin: auto;
+text-align: center;
+align-items: center;}
